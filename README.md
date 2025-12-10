@@ -11,16 +11,15 @@
 <br/>
 
 ### 👾 About Me
-> *"Hoping to make it to final year with skills and scalp intact."*
+> *"Hoping to switch roles from being a shuttle to being the racket and get some DAMN control."*
 
-I am a Third Year **Computer Science Undergrad** based in **Pune**.
-* 🔭 I’m currently working on **AI Traffic Management Systems**.
+I am a Third Year **Computer Science Undergrad**.
 * 🌱 I’m currently learning **Generative AI & Advanced DSA**.
 * 💬 Ask me about **Java, Python, or why my code isn't working.**
 
 ---
 
-### 📊 The "Living" Stats
+### 📊 Get to Me 😃
 ---
 
 <div align="center">
