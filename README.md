@@ -10,7 +10,7 @@
 
 <br/>
 
-### 👾 About Me
+### ◡́.◡̀ About Me
 > *"Hoping to switch roles from being a shuttle to being the racket and get some DAMN control."*
 
 I am a Third Year **Computer Science Undergrad**.
@@ -19,7 +19,7 @@ I am a Third Year **Computer Science Undergrad**.
 
 ---
 
-### 📊 Get to Me 😃
+### 📊 Get to Me ⌐■_■
 ---
 
 <div align="center">
